@@ -68,3 +68,14 @@ footer{
     padding: 12px;
     font-size: 14px;
 }
+.developer-box{
+    margin: 30px auto;
+    background-color: rgba(0,0,0,0.6);
+    padding: 20px;
+    border-radius: 12px;
+    width: 60%;
+}
+
+.developer-box h2{
+    color: yellow;
+}
